@@ -111,3 +111,14 @@ npm test
 - [creating a Vite project](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
 - [Vitest Testing Library example](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
 - [Vitest ESLint plugin](https://www.npmjs.com/package/eslint-plugin-vitest)
+
+
+****************************************************************************
+
+How do you start ViTesting
+
+type control ` (backtick) to open up the terminal in VSC
+type npm test run
+- to run the test script that's in package.json
+- that runs ViTest in watch mode
+-Test either pass or fails
